@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>828217569787-69nb3a33kh8lbabkm9e7gob47nkrgks6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.828217569787-69nb3a33kh8lbabkm9e7gob47nkrgks6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVG6by235y_w83ycr5gLRBkH7RZ8h_9mk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>828217569787</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.veeraapps.OnlyHelp</string>
+	<key>PROJECT_ID</key>
+	<string>onlyhelpapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onlyhelpapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:828217569787:ios:b9e84e8824479a67865b5e</string>
+	<key>DATABASE_URL</key>
+	<string>https://onlyhelpapp.firebaseio.com</string>
+</dict>
+</plist>
